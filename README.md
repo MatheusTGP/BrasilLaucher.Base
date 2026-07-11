@@ -1,6 +1,6 @@
-# BrasilLauncher.Base
+# BrasilLauncher
 
-`BrasilLauncher.Base` is the core library behind the BrasilLauncher ecosystem.
+`Cmllib.Core` is the core library behind the BrasilLauncher ecosystem.
 
 Its purpose is to provide a reusable foundation for building Minecraft launchers without depending on a specific user interface. Desktop, Android, terminal, or any other frontend can share the same installation and launch logic.
 
@@ -16,12 +16,13 @@ Its purpose is to provide a reusable foundation for building Minecraft launchers
 
 ## Built With
 
-BrasilLauncher.Base is built on top of **CmlLib.Core**, extending its capabilities with additional abstractions and utilities designed for the BrasilLauncher ecosystem.
+BrasilLauncher is built on top of **CmlLib.Core**, extending its capabilities with additional abstractions and utilities designed for the BrasilLauncher ecosystem.
 
-## Used By
+## Download BrasilLauncher for Terminal and Avalonia (with GUI)
 
-* BrasilLauncher.Avalonia
-* BrasilLauncher.Terminal
+* [BrasilLauncher Terminal Download](https://github.com/MatheusTGP/BrasilLauncher.Base/releases/tag/v.1.0-terminal)
+
+* [BrasilLauncher Avalonia Download](https://github.com/MatheusTGP/BrasilLauncher.Base/releases/tag/v1.0-avalonia)
 
 ## Status
 
@@ -31,4 +32,4 @@ This project is under active development. Features and APIs may change until the
 
 This repository is part of an ongoing YouTube series documenting the development of BrasilLauncher.
 
-📺 Watch the series: [Click here](https://www.youtube.com/@matheustgamerproofc)
+📺 Watch the series: [Click here](https://youtube.com/playlist?list=PLAzYhnljz93lFDDqXXGmO7SuOEEwJThXy&si=ttHuWIp
